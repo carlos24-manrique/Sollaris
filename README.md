@@ -1,2 +1,4 @@
 # Sollaris
-Paquete de recursos necesario para rangos
+
+##Descripción
+En este repositorio encontraras todos los recursos usados para *SOLLARIS* 
